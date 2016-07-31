@@ -32,7 +32,7 @@
 
 ---
 
-![](/resources/3amigos.jpg)
+![](resources/3amigos.jpg)
 
 * клиент / бизнес-аналитик
 * разработчик
@@ -58,4 +58,4 @@
 
 #### Plumbus_Project v0.00001
 
-![](/resources/plumbus_happy.jpg)
+![](resources/plumbus_happy.jpg)

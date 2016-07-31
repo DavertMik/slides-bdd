@@ -36,7 +36,7 @@ Given It is important that the fleeb is rubbed
   because the fleeb has all of the fleeb juice
 ```
 
-![](/resources/shleem.jpg)
+![](resources/shleem.jpg)
 
 ---
 
@@ -53,7 +53,7 @@ And the ploobis and grumbo are shaved away
 
 Then that leaves you with a regular old plumbus
 ```
-![](/resources/shlami.jpg)
+![](resources/shlami.jpg)
 
 ---
 

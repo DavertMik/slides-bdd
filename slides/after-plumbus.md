@@ -4,10 +4,10 @@
 
 ### Что это было, пух?
 
-![](/resources/puh.jpg)
+![](resources/puh.jpg)
 
 ---
 
 ### Что непонятного?
 
-![](/resources/client.jpg)
+![](resources/client.jpg)

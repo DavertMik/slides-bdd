@@ -66,7 +66,7 @@
 * Пишем тесты!
 * Делаем плюмбусы!
 
-![](/resources/happy.jpg)
+![](resources/happy.jpg)
 
 ---
 

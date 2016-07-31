@@ -5,7 +5,7 @@
     "plumbus-video.html",
     {
       "attr": {
-          "data-background": "/resources/real_plumbus.jpg"
+          "data-background": "resources/real_plumbus.jpg"
       }
     },
     "case.md",

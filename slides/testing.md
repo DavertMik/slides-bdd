@@ -1,6 +1,6 @@
 ### История BDD 
 
-![](/resources/dannorth.png)
+![](resources/dannorth.png)
 
 * тесты привязываем к спецификации
 * названия тестов описывают поведение
@@ -21,7 +21,7 @@
 
 ---
 
-![](/resources/onion.png)
+![](resources/onion.png)
 
 ---
 

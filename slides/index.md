@@ -9,90 +9,90 @@
 * Веб-разработчик (PHP,JS,Roby) из Киева
 * Пилю open-source: Codeception/CodeceptJS/Robo
 * Выступаю на конференциях: Amsterdam, Barcelona, Istanbul,...
-![](/resources/me.jpg)
+![](resources/me.jpg)
 
 ---
 
 ## Кто мы?
 
-![](/resources/whowe.jpg)
+![](resources/whowe.jpg)
 
 ---
 
 ## Веб разработчики!
 
-![](/resources/weare.png)
+![](resources/weare.png)
 
 ---
 
 ## Что мы делаем?
 
-![](/resources/whowe.jpg)
+![](resources/whowe.jpg)
 
 ---
 
 ## Что мы делаем?
 
-![](/resources/weare.png)
+![](resources/weare.png)
 
 ---
 
 ## Веб приложения!
 
-![](/resources/weare.png)
+![](resources/weare.png)
 
 ---
 
 ## Любого уровня сложности!
 
-![](/resources/weare.png)
+![](resources/weare.png)
 
 ---
 
 ## Есть тут у нас один заказчик
 
-![](/resources/client.jpg)
+![](resources/client.jpg)
 
 ---
 
 ## Комплексные веб-приложения говорите?
 
-![](/resources/client.jpg)
+![](resources/client.jpg)
 
 ---
 
 ## Как насчет немного необычной предметной области?
 
-![](/resources/client.jpg)
+![](resources/client.jpg)
 
 ---
 
 
 ## Не всё же соцсети с котятами фигачить
 
-![](/resources/client.jpg)
+![](resources/client.jpg)
 
 ---
 
 ## Любого уровня сложности!
 
-![](/resources/weare.png)
+![](resources/weare.png)
 
 ---
 
 ### Нам нужно приложение по созданию Плюмбусов
 
-![](/resources/client.jpg)
+![](resources/client.jpg)
 
 ---
 
 ## Без проблем! 
 Но что это?
 
-![](/resources/whowe.jpg)
+![](resources/whowe.jpg)
 
 ---
 
 ## Ща обьясню
 
-![](/resources/client.jpg)
+![](resources/client.jpg)
